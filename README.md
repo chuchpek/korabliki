@@ -1,2 +1,2 @@
-# korabliki
+# ships battle
 ship battle game 
